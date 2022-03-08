@@ -25,15 +25,15 @@
 
 <img src="https://www.jadewallet.io/images/blog7_p6.png" alt="" style="zoom:100%;" />
 
-6. 确认钱包信息，同意使用协议*（Figure 7）*
-7. 开启Face ID（或Touch ID）用于加解密密钥分片。点击“Verify Face ID”验证身份*（Figure 8）*
-8. 开启iCloud Drive用于备份加密密钥分片的Key。点击“iCloud Sync”检查系统设置是否开启*（Figure 9）*。在移动网络模式下，请检查系统设置中“蜂窝网络” -> “iCloud云盘”。
+6. 确认钱包信息，同意使用协议 *（Figure 7）*
+7. 开启Face ID（或Touch ID）用于加解密密钥分片。点击“Verify Face ID”验证身份 *（Figure 8）*
+8. 开启iCloud Drive用于备份加密密钥分片的Key。点击“iCloud Sync”检查系统设置是否开启 *（Figure 9）*。在移动网络模式下，请检查系统设置中“蜂窝网络” -> “iCloud云盘”。
 
 <img src="https://www.jadewallet.io/images/blog7_p7.png" alt="" style="zoom:100%;" />
 
 9. Face ID和iCloud Drive通过检查后，进入waiting room，须等待剩余成员同时在线。*（Figure 10）*
 10. 所有成员到齐后，App将自动进入创建钱包流程，过程中需要验证Face ID。*（Figure 11）*
-11. 创建结果*（Figure 12）*。如果App提示需要备份钱包，说明有成员未完成iCloud备份，请进入钱包详情页查看未完成备份的成员信息并提示TA们再次备份。
+11. 创建结果 *（Figure 12）*。如果App提示需要备份钱包，说明有成员未完成iCloud备份，请进入钱包详情页查看未完成备份的成员信息并提示TA们再次备份。
 
 
 
