@@ -39,7 +39,7 @@
 
 ## 转入ETH
 
-<img src="https://gateway.pinata.cloud/ipfs/QmSXdKiPafwxDaCGjKdLXeu9Sd4CdQjoB1ZW7T523a1stn" alt="" style="zoom:100%;" />
+<img src="https://nftstorage.link/ipfs/QmSXdKiPafwxDaCGjKdLXeu9Sd4CdQjoB1ZW7T523a1stn" alt="" style="zoom:100%;" />
 
 1. 进入钱包ETH详情页点击底部“Deposit”按钮 *（Figure 13）*
 2. 验证Face ID查看钱包地址 *（Figure 14）*。并通过其他钱包向该地址转入ETH。
@@ -62,20 +62,20 @@ chmod +x start-agent.sh
 ```
 2. 依次输入账户邮箱、密码、google二次验证码登录账户
 
-<img src="https://gateway.pinata.cloud/ipfs/QmXFdQp3pyZq62X8wWjSxsfRVaV4VjakhU6i7N8oe4JKRr" alt="" style="zoom:100%;" />   
+<img src="https://nftstorage.link/ipfs/QmXFdQp3pyZq62X8wWjSxsfRVaV4VjakhU6i7N8oe4JKRr" alt="" style="zoom:100%;" />   
 
 3. 账户登录成功后，请选择自动签名的主钱包
 4. 选择钱包后会提示钱包地址及余额，请确认信息是否一致
 
-<img src="https://gateway.pinata.cloud/ipfs/QmNciQq7qJn1jzXKu9msefABE98pmNkNtgEA8iG8Ga8SWz" alt="" style="zoom:100%;" />   
+<img src="https://nftstorage.link/ipfs/QmNciQq7qJn1jzXKu9msefABE98pmNkNtgEA8iG8Ga8SWz" alt="" style="zoom:100%;" />   
 
 5. 输入创建钱包时备份的加密密钥分片的Key。根据命令行上提示的文件路径，进入iOS上“文件夹”App或网页版iCloud，找到对应的内容并输入。
 
-<img src="https://gateway.pinata.cloud/ipfs/QmcercibyLW63mvDLyz5fVXS8QmLBMDBGx1EptYz58ZY1S" alt="" style="zoom:100%;" />   
+<img src="https://nftstorage.link/ipfs/QmcercibyLW63mvDLyz5fVXS8QmLBMDBGx1EptYz58ZY1S" alt="" style="zoom:100%;" />   
 
 6. 配置ETH 2.0的合约地址，程序将会检查配置的地址和内置的地址是否一致。地址验证成功后，输出的pm2 log代表程序已配置成功。
 
-<img src="https://gateway.pinata.cloud/ipfs/QmXjF67gne5MpfG9iXaQ9hbyDzm4F5dGhPcWqKiqiSpQ4g" alt="" style="zoom:100%;" />   
+<img src="https://nftstorage.link/ipfs/QmXjF67gne5MpfG9iXaQ9hbyDzm4F5dGhPcWqKiqiSpQ4g" alt="" style="zoom:100%;" />   
 
 
 7. 按Crtl-P + Crtl-Q可将程序进入后台运行
@@ -99,23 +99,23 @@ chmod +x start-batch.sh
 
 2. 同“配置自动签名”，依次输入账户邮箱、密码、google二次验证码登录账户，并选择发起交易的钱包
 
-<img src="https://gateway.pinata.cloud/ipfs/QmXagca8UGTdgsPRNPB7Y6PPAaSia19mTBFETW2VyccXFJ" alt="" style="zoom:100%;" />   
+<img src="https://nftstorage.link/ipfs/QmXagca8UGTdgsPRNPB7Y6PPAaSia19mTBFETW2VyccXFJ" alt="" style="zoom:100%;" />   
 
 
 3. 导入批量订单（最多20个）。根据“Enter deposit parameters in json format”提示，按回车键进入编辑器，复制粘贴订单信息。
 
-<img src="https://gateway.pinata.cloud/ipfs/QmVXoJpLtcX1cu78CwbL2Simr2Wv84AtChXWZu9bsVkqJB" alt="" style="zoom:100%;" />   
+<img src="https://nftstorage.link/ipfs/QmVXoJpLtcX1cu78CwbL2Simr2Wv84AtChXWZu9bsVkqJB" alt="" style="zoom:100%;" />   
 
 4. 订单信息检查无误后，按esc键显示操作菜单，选择“Save&Exit”以保存订单信息。
 
-<img src="https://gateway.pinata.cloud/ipfs/QmUcTNpz6umaanRgsbqZ3ynnFzq9J9JtF5ANYnS6HH45MS" alt="" style="zoom:100%;" />   
+<img src="https://nftstorage.link/ipfs/QmUcTNpz6umaanRgsbqZ3ynnFzq9J9JtF5ANYnS6HH45MS" alt="" style="zoom:100%;" />   
 
 5. 设置Gas Price及Gas Limit。为让交易尽快上链，请务必保证Gas Price大于推荐值，比如乘以系数1.5。
 
-<img src="https://gateway.pinata.cloud/ipfs/QmV9tKbnzm7fTSxyuePvLzEuh9Cs6ja13gYMRuKkWgdRZm" alt="" style="zoom:100%;" />  
+<img src="https://nftstorage.link/ipfs/QmV9tKbnzm7fTSxyuePvLzEuh9Cs6ja13gYMRuKkWgdRZm" alt="" style="zoom:100%;" />  
 
 6. 配置ETH 2.0的合约地址，程序将会检查配置的地址和内置的地址是否一致。地址验证成功后，会自动创建订单。
 
-<img src="https://gateway.pinata.cloud/ipfs/QmYb96MH4s4BXWXjwgcAZHLUr9XJTKSX8kVd9e1TZ1ZBXc" alt="" style="zoom:100%;" />  
+<img src="https://nftstorage.link/ipfs/QmYb96MH4s4BXWXjwgcAZHLUr9XJTKSX8kVd9e1TZ1ZBXc" alt="" style="zoom:100%;" />  
 
 7. 可用未占用的账号登录Jade Wallet查看订单状态。
